@@ -1,4 +1,5 @@
 #German-Credit-Card
+
 I'm thrilled to share that I've been diving deep into the world of credit card data, leveraging cutting-edge machine learning techniques. 🤖💳 After a thorough analysis, I put several powerful algorithms to the test, including ✅Logistic Regression, ✅Decision Trees, ✅Bagging, ✅Random Forests, ✅Support Vector Machines (SVM).
 
 The results have been quite remarkable! 🚀✨ Each of these models demonstrated impressive performance in classifying credit card transactions. But there's more:
